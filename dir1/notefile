@@ -2,3 +2,5 @@ git add . - added modified/untracked file to staging
 git reset . -  unstaged both files
 
 Added all files , Committed  , then modified a file and checkout the file
+
+repeated the above steps 
